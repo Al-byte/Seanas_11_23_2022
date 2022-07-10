@@ -14,6 +14,10 @@ html, body {
   font-weight: 100;
 }
 
+.small-font {
+  font-size: 16px;
+}
+
 .shadow {
   border:2px solid rgba(0,6,12,.5);
   box-shadow: 0 2px 12px rgba(0,6,12,.5);

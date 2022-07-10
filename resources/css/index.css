@@ -48,6 +48,10 @@ html, body {
   font-weight: 800;
 }
 
+.small-font {
+  font-size: 16px;
+}
+
 
 .modal-open[style] {
   padding-right: 0px !important;
